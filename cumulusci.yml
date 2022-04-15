@@ -3,6 +3,7 @@ project:
     name: Food-Bank
     package:
         name: Food-Bank
+        namespace: ccipkg0422conz
         api_version: '54.0'
     git:
         default_branch: 'main'
