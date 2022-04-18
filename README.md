@@ -6,7 +6,7 @@
 ### Production, trial or developer org:
 https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5i000000gQ5K
 
-### Playground
+### Playground:
 You can use the "Install a Package" tab in the "Playground Starter" app (only in a Trailhead Playground)
 using the package ID: 04t5i000000gQ5K
 
